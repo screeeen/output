@@ -21,6 +21,7 @@ p {
 
 p a {
   color: yellow;
+  text-decoration:none;
 }
 
 .images ul li img {
